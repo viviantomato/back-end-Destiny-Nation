@@ -30,6 +30,10 @@ Feel free to alter these import statements.
 
 This file also has a comment to define a Blueprint. Feel free to delete it.
 
+## `main.py`
+
+Initialize the app with service account. Connect to Cloud Firestore database.
+
 ## `app/models` Directory
 
 This project already includes `app/models/city.py` and `app/models/user.py`, to anticipate the models `City` and `User`.
