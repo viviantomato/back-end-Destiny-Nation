@@ -1,1 +1,1 @@
-#connect, impoort models, register bp
+#connect, import models, register bp

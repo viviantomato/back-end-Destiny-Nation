@@ -26,6 +26,9 @@ wheels/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
+build/
+dist/
+
 *.egg
 MANIFEST
 
@@ -139,3 +142,16 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+*.pyc
+.python-version
+.cache/
+.tox/
+
+*~
+cert.json
+apikey.txt
+htmlcov/
+.pytest_cache/
+.vscode/
+.venv/
